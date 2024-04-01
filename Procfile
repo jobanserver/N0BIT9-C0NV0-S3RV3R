@@ -1,1 +1,1 @@
-web:python main.py
+web: python N0BIT9.py
